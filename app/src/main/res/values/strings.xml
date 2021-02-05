@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Text selector</string>
+    <string name="text1">Text1</string>
+    <string name="text2">Text2</string>
+    <string name="text3">Text3</string>
+    <string name="random">Random</string>
+
+    <string name="text_passage_one">In dapibus fringilla sagittis. Aenean tempor neque hendrerit, hendrerit enim non, tempor diam. Proin vestibulum efficitur ullamcorper. Vestibulum pulvinar bibendum efficitur. Mauris fermentum consequat eros. Aenean lobortis consectetur felis a fringilla. Aliquam odio risus, interdum quis lorem at, feugiat pellentesque nunc. Morbi vel elementum arcu. Donec vitae diam nisl.
+
+Fusce convallis arcu non nibh pellentesque lobortis. Mauris congue neque id massa fermentum, maximus venenatis justo cursus. Morbi pulvinar consectetur felis. Suspendisse facilisis nunc libero, vel consequat sem sodales sed. Integer malesuada blandit nibh eu consectetur. Maecenas feugiat finibus elit, non porta risus iaculis nec. Sed nisl lacus, euismod non magna id, elementum semper lacus. Vivamus pretium, ex in mattis tristique, mauris neque venenatis mi, malesuada faucibus nisl massa id lacus.
+
+Proin convallis purus in nunc ullamcorper, vitae rutrum justo dictum. Vestibulum volutpat fermentum lacus, quis hendrerit tortor volutpat id. Nulla est ligula, pharetra eu arcu at, pulvinar volutpat risus. Nam at risus euismod, imperdiet orci a, rutrum lorem. Duis auctor cursus mauris ut rutrum. Quisque ut sollicitudin odio. Vestibulum vel tincidunt mi. Donec venenatis nunc id dui gravida tristique. Nullam in nisi sit amet sapien eleifend scelerisque auctor in mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla ullamcorper ullamcorper pharetra. Aenean facilisis sagittis blandit. Fusce feugiat ante dolor, ac tristique augue mollis at. Nam pretium molestie est. Curabitur eget commodo metus.</string>
+
+
+    <string name="text_passage_two">In dapibus fringilla sagittis. Aenean tempor neque hendrerit, hendrerit enim non, tempor diam. Proin vestibulum efficitur ullamcorper. Vestibulum pulvinar bibendum efficitur. Mauris fermentum consequat eros. Aenean lobortis consectetur felis a fringilla. Aliquam odio risus, interdum quis lorem at, feugiat pellentesque nunc. Morbi vel elementum arcu. Donec vitae diam nisl.
+
+Fusce convallis arcu non nibh pellentesque lobortis. Mauris congue neque id massa fermentum, maximus venenatis justo cursus. Morbi pulvinar consectetur felis. Suspendisse facilisis nunc libero, vel consequat sem sodales sed. Integer malesuada blandit nibh eu consectetur. Maecenas feugiat finibus elit, non porta risus iaculis nec. Sed nisl lacus, euismod non magna id, elementum semper lacus. Vivamus pretium, ex in mattis tristique, mauris neque venenatis mi, malesuada faucibus nisl massa id lacus.
+
+Proin convallis purus in nunc ullamcorper, vitae rutrum justo dictum. Vestibulum volutpat fermentum lacus, quis hendrerit tortor volutpat id. Nulla est ligula, pharetra eu arcu at, pulvinar volutpat risus. Nam at risus euismod, imperdiet orci a, rutrum lorem. Duis auctor cursus mauris ut rutrum. Quisque ut sollicitudin odio. Vestibulum vel tincidunt mi. Donec venenatis nunc id dui gravida tristique. Nullam in nisi sit amet sapien eleifend scelerisque auctor in mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla ullamcorper ullamcorper pharetra. Aenean facilisis sagittis blandit. Fusce feugiat ante dolor, ac tristique augue mollis at. Nam pretium molestie est. Curabitur eget commodo metus.</string>
+
+
+    <string name="text_passage_three">In dapibus fringilla sagittis. Aenean tempor neque hendrerit, hendrerit enim non, tempor diam. Proin vestibulum efficitur ullamcorper. Vestibulum pulvinar bibendum efficitur. Mauris fermentum consequat eros. Aenean lobortis consectetur felis a fringilla. Aliquam odio risus, interdum quis lorem at, feugiat pellentesque nunc. Morbi vel elementum arcu. Donec vitae diam nisl.
+
+Fusce convallis arcu non nibh pellentesque lobortis. Mauris congue neque id massa fermentum, maximus venenatis justo cursus. Morbi pulvinar consectetur felis. Suspendisse facilisis nunc libero, vel consequat sem sodales sed. Integer malesuada blandit nibh eu consectetur. Maecenas feugiat finibus elit, non porta risus iaculis nec. Sed nisl lacus, euismod non magna id, elementum semper lacus. Vivamus pretium, ex in mattis tristique, mauris neque venenatis mi, malesuada faucibus nisl massa id lacus.
+
+Proin convallis purus in nunc ullamcorper, vitae rutrum justo dictum. Vestibulum volutpat fermentum lacus, quis hendrerit tortor volutpat id. Nulla est ligula, pharetra eu arcu at, pulvinar volutpat risus. Nam at risus euismod, imperdiet orci a, rutrum lorem. Duis auctor cursus mauris ut rutrum. Quisque ut sollicitudin odio. Vestibulum vel tincidunt mi. Donec venenatis nunc id dui gravida tristique. Nullam in nisi sit amet sapien eleifend scelerisque auctor in mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla ullamcorper ullamcorper pharetra. Aenean facilisis sagittis blandit. Fusce feugiat ante dolor, ac tristique augue mollis at. Nam pretium molestie est. Curabitur eget commodo metus.</string>
+
 </resources>
